@@ -16,7 +16,6 @@ public class HelloWorld extends HttpServlet {
     out.println("<HEAD><TITLE>Hello World</TITLE></HEAD>");
     out.println("<BODY>");
     out.println("<BIG>Hello World , 世界你好 !</BIG>");
-    out.println("<BIG>Hello World , 世界你好 !</BIG>");
     out.println("</BODY></HTML>");
   }
 }
